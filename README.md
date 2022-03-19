@@ -1,6 +1,6 @@
-# PINTAS (Perpustakaan & Informasi Digital Sekolah
+# PINTAS (Perpustakaan & Informasi Digital Sekolah)
 
-Aplikasi perpustakaan berbasis digital menggunakan Flutter.
+Digital based library application using Flutter.
 
 Video Application:
 https://youtu.be/BW1FiiQwa3M
