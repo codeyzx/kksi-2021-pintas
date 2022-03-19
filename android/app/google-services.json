@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "990304897398",
+    "project_id": "pintas-da727",
+    "storage_bucket": "pintas-da727.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990304897398:android:47cf410c31f1ece10cd257",
+        "android_client_info": {
+          "package_name": "com.pintas.app.pintas_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990304897398-9g9tjq7mqnlst26gn3l4ef1fj4kcbdru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX7rhrn0mVZhSqdiMeNeAuRVlnihtA4Vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990304897398-9g9tjq7mqnlst26gn3l4ef1fj4kcbdru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
