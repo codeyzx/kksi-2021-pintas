@@ -1,4 +1,4 @@
-# pintas_app
+# PINTAS (Perpustakaan & Informasi Digital Sekolah
 
 Aplikasi perpustakaan berbasis digital menggunakan Flutter.
 
