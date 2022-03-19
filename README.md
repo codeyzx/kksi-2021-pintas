@@ -1,6 +1,9 @@
 # pintas_app
 
-Flutter project mobile application for library school.
+Aplikasi perpustakaan berbasis digital menggunakan Flutter.
+
+Video Application:
+https://youtu.be/BW1FiiQwa3M
 
 ## Getting Started
 
